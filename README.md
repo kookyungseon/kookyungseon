@@ -29,40 +29,6 @@
 ## 💼 WORK EXPERIENCE
 - **Pixeleye Co., Ltd.** (07/29/2024 ~ 08/26/2024) (Intern)
 
-## 🛠️ SKILLS
-<div align="center">
-<span>
-    <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-</span>
-</div>
-
 ## 📊 MY GITHUB STATS
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kookyungseon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
