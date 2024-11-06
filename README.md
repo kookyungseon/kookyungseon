@@ -21,7 +21,7 @@
 ## 🎓 EDUCATION
 - **Department of Global Environmental Sciences, Chungbuk National University** (2021 ~ 현재, 청주)
 - **Department of Software, Chungbuk National University** (2021 ~ 현재, 청주)
-- **Multicampus IoT/Cloud Convergence Program** (2023)
+- **Multicampus Cloud Convergence Program** (2022)
 
 ## 🏅 CERTIFICATIONS
 - **Data Architecture Semi-Professional (DAsP)**
