@@ -10,29 +10,9 @@
 <div align="center">  
 <br>
 <span>
-  <a href="https://github.com/kookyungseon">
-    <img src="https://img.shields.io/badge/GitHub Blog-333333?style=plastic&logo=GitHub&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:kookyungseon@domain.com">
+  <a href="mailto:koo0685@naver.com">
     <img src="https://img.shields.io/badge/Email-FF6347?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/kookyungseon/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://kookyungseon.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
-</span>  
-<span>
-    <a href="https://www.linkedin.com/in/kookyungseon">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white"/>
-    </a>
 </span>
 </div>
 
