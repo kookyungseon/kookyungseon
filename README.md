@@ -18,19 +18,19 @@
 
 <br>
 
-## 🎖️ ACHIEVEMENTS
-- **2024 충청권 ICT 이노베이션 아이디어 및 SW 개발 공모전**: SW 개발 부분 최우수상 수상 (세종테크노파크 원장상)
-
 ## 🎓 EDUCATION
 - **Department of Global Environmental Sciences, Chungbuk National University** (2021 ~ 현재, 청주)
 - **Department of Software, Chungbuk National University** (2021 ~ 현재, 청주)
 - **Multicampus IoT/Cloud Convergence Program** (2023)
 
-## 💼 WORK EXPERIENCE
-- **Pixeleye Co., Ltd.** (07/29/2024 ~ 08/26/2024) (Intern)
-
 ## 🏅 CERTIFICATIONS
 - **Data Architecture Semi-Professional (DAsP)**
+
+## 🎖️ ACHIEVEMENTS
+- **2024 충청권 ICT 이노베이션 아이디어 및 SW 개발 공모전**: SW 개발 부분 최우수상 수상 (세종테크노파크 원장상)
+
+## 💼 WORK EXPERIENCE
+- **Pixeleye Co., Ltd.** (07/29/2024 ~ 08/26/2024) (Intern)
 
 ## 📊 MY GITHUB STATS
 <div align="center">
