@@ -32,6 +32,34 @@
 ## 💼 WORK EXPERIENCE
 - **Pixeleye Co., Ltd.** (07/29/2024 ~ 08/26/2024) (Intern)
 
+## 💼 PROJECT EXPERIENCE
+
+### 📍 Cloud, Big Data, IoT Project: Designated Parking Management System
+- A responsive web application solving parking space shortage by sharing personal parking spaces.
+- Duration: Aug 2022 – Feb 2023 (6 months)
+- [K-Digital] Completed a cloud (MSA) service development course for the convergence project.
+- Role: Cloud / Front-end (HTML, CSS)
+
+### 📍 Open Source Development Project: Travel Destination Recommendation System
+- A web application recommending travel destinations and restaurants by region and ranking.
+- Duration: 3rd Year, 2nd Semester
+- Role: Front-end (React)
+
+### 📍 Open Source Basic Project: Environmental Awareness Improvement (Water Quality)
+- Provided eco-friendly detergent certifications, water-related quizzes, and polluted stormwater drain reporting features.
+- Duration: 4th Year, 1st Semester
+- Role: Django + DB Management / API utilization from Public Data Portal / Front-end (Flutter)
+
+### 📍 AI Open Source Professional Project: Telemedicine and Emergency Room Matching
+- An AI chatbot-based app providing telemedicine and emergency room recommendations to address emergency room issues.
+- Duration: 4th Year, 1st Semester
+- Role: Front-end (XML)
+
+### 📍 Excellence Award in SW Development at Chungcheong ICT Innovation Idea and Software Development Contest
+- An app that provides pill information and medication management through photo upload and image recognition, offering text and voice support.
+- Duration: Summer Vacation, 4th Year
+- Role: Django + DB Management / Pill Recognition Model Development
+
 ## 📊 MY GITHUB STATS
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kookyungseon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
