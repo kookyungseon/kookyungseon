@@ -38,11 +38,6 @@
 
 <br>
 
-## 👋 ABOUT ME
-- 열정적인 백엔드 및 AI 개발자입니다.
-- 다양한 개발 분야에 관심이 있으며, 항상 학습하고 성장하고 있습니다.
-- **Objective**: 지속적인 학습과 경험을 통해 더 나은 개발자가 되고자 합니다.
-
 ## 🎓 EDUCATION
 - **Chungbuk National University** (2021 ~ 현재, 청주)
 - **Multicampus IoT/Cloud Convergence Program** (2023)
@@ -83,13 +78,13 @@
 
 ## 📊 MY GITHUB STATS
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyungseon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungseon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api?username=kookyungseon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kookyungseon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
 </div>
 
 <!-- 액티비티 그래프 -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungseon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kookyungseon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </div>
 
 <!-- 히트 카운터 -->
