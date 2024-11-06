@@ -10,33 +10,41 @@
 <div align="center">  
 <br>
 <span>
-  <a href="https://github.com/kyungseon">
+  <a href="https://github.com/kookyungseon">
     <img src="https://img.shields.io/badge/GitHub Blog-333333?style=plastic&logo=GitHub&logoColor=white"/>
   </a>
 </span>
 <span>
-  <a href="mailto:kyungseon@domain.com">
+  <a href="mailto:kookyungseon@domain.com">
     <img src="https://img.shields.io/badge/Email-FF6347?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <span>
-  <a href="https://www.instagram.com/kyungseon/">
+  <a href="https://www.instagram.com/kookyungseon/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
 <span>
-  <a href="https://kyungseon.tistory.com/">
+  <a href="https://kookyungseon.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 </span>  
 <span>
-    <a href="https://www.linkedin.com/in/kyungseon">
+    <a href="https://www.linkedin.com/in/kookyungseon">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white"/>
     </a>
 </span>
 </div>
 
 <br>
+
+## 👋 ABOUT ME
+- 열정적인 백엔드 및 AI 개발자입니다.
+- 다양한 개발 분야에 관심이 있으며, 항상 학습하고 성장하고 있습니다.
+- **Objective**: 지속적인 학습과 경험을 통해 더 나은 개발자가 되고자 합니다.
+
+## 🎖️ ACHIEVEMENTS
+- **2024 충청권 ICT 이노베이션 아이디어 및 SW 개발 공모전**: SW 개발 부분 최우수상 수상 (세종테크노파크 원장상)
 
 ## 🎓 EDUCATION
 - **Chungbuk National University** (2021 ~ 현재, 청주)
@@ -89,7 +97,7 @@
 
 <!-- 히트 카운터 -->
 <div align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungseon&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkookyungseon&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/>
 </div>
 
 <!-- 풋터 배너 -->
