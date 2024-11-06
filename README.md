@@ -38,17 +38,16 @@
 
 <br>
 
-## 👋 ABOUT ME
-- 열정적인 백엔드 및 AI 개발자입니다.
-- 다양한 개발 분야에 관심이 있으며, 항상 학습하고 성장하고 있습니다.
-- **Objective**: 지속적인 학습과 경험을 통해 더 나은 개발자가 되고자 합니다.
-
 ## 🎖️ ACHIEVEMENTS
 - **2024 충청권 ICT 이노베이션 아이디어 및 SW 개발 공모전**: SW 개발 부분 최우수상 수상 (세종테크노파크 원장상)
 
 ## 🎓 EDUCATION
-- **Chungbuk National University** (2021 ~ 현재, 청주)
+- **Department of Global Environmental Sciences, Chungbuk National University** (2021 ~ 현재, 청주)
+- **Department of Software, Chungbuk National University** (2021 ~ 현재, 청주)
 - **Multicampus IoT/Cloud Convergence Program** (2023)
+
+## 💼 WORK EXPERIENCE
+- **Pixeleye Co., Ltd.** (07/29/2024 ~ 08/26/2024) (Intern)
 
 ## 🛠️ SKILLS
 <div align="center">
