@@ -29,6 +29,9 @@
 ## 💼 WORK EXPERIENCE
 - **Pixeleye Co., Ltd.** (07/29/2024 ~ 08/26/2024) (Intern)
 
+## 🏅 CERTIFICATIONS
+- **Data Architecture Semi-Professional (DAsP)**
+
 ## 📊 MY GITHUB STATS
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kookyungseon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
