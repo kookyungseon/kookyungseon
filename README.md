@@ -19,8 +19,8 @@
 <br>
 
 ## 🎓 EDUCATION
-- **Department of Global Environmental Sciences, Chungbuk National University** (2021 ~ 현재, 청주)
-- **Department of Software, Chungbuk National University** (2021 ~ 현재, 청주)
+- **Department of Global Environmental Sciences, Chungbuk National University** (2020 ~ 현재, 청주)
+- **Department of Software, Chungbuk National University** (2023 ~ 현재, 청주)
 - **Multicampus Cloud Convergence Program** (2022)
 
 ## 🏅 CERTIFICATIONS
