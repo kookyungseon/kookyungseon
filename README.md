@@ -39,26 +39,32 @@
 - Duration: Aug 2022 – Feb 2023 (6 months)
 - [K-Digital] Completed a cloud (MSA) service development course for the convergence project.
 - Role: Cloud / Front-end (HTML, CSS)
+- [Repository Link](https://github.com/kookyungseon/cloudproject_TayoTayo)
 
 ### 📍 Open Source Development Project: Travel Destination Recommendation System
 - A web application recommending travel destinations and restaurants by region and ranking.
 - Duration: 3rd Year, 2nd Semester
 - Role: Front-end (React)
+- [Repository Link](https://github.com/opensource-develop-project-2023/miwu)
 
 ### 📍 Open Source Basic Project: Environmental Awareness Improvement (Water Quality)
 - Provided eco-friendly detergent certifications, water-related quizzes, and polluted stormwater drain reporting features.
 - Duration: 4th Year, 1st Semester
 - Role: Django + DB Management / API utilization from Public Data Portal / Front-end (Flutter)
+- [Repository Link](https://github.com/Eco-guardians/BOGGLE)
 
 ### 📍 AI Open Source Professional Project: Telemedicine and Emergency Room Matching
 - An AI chatbot-based app providing telemedicine and emergency room recommendations to address emergency room issues.
 - Duration: 4th Year, 1st Semester
 - Role: Front-end (XML)
+- [Repository Link](https://github.com/code-guhaejo/CodeBlack)
 
 ### 📍 Excellence Award in SW Development at Chungcheong ICT Innovation Idea and Software Development Contest
 - An app that provides pill information and medication management through photo upload and image recognition, offering text and voice support.
 - Duration: Summer Vacation, 4th Year
 - Role: Django + DB Management / Pill Recognition Model Development
+- [Repository Link](https://github.com/Algorithmstudy01/ict_ver2)
+
 
 ## 📊 MY GITHUB STATS
 <div align="center">
