@@ -61,7 +61,7 @@
 
 ### 📍 Excellence Award in SW Development at Chungcheong ICT Innovation Idea and Software Development Contest
 - An app that provides pill information and medication management through photo upload and image recognition, offering text and voice support.
-- Duration: Summer Vacation, 4th Year
+- Duration: Aug 2024 – Oct 2024 (3 months)
 - Role: Django + DB Management / Pill Recognition Model Development
 - [Repository Link](https://github.com/Algorithmstudy01/ict_ver2)
 
