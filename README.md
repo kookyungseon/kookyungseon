@@ -25,6 +25,7 @@
 
 ## 🏅 CERTIFICATIONS
 - **Data Architecture Semi-Professional (DAsP)**
+- **Applied Data Science Professional (ADsP)**
 
 ## 🎖️ ACHIEVEMENTS
 - **2024 충청권 ICT 이노베이션 아이디어 및 SW 개발 공모전**: SW 개발 부분 최우수상 수상 (세종테크노파크 원장상)
