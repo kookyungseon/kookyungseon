@@ -36,12 +36,12 @@
 <table align="center">
   <tr>
     <td><strong>🌍 Global Environmental Sciences</strong></td>
-    <td>Chungbuk National University</td>
+    <td>OO University</td>
     <td><em>2020 ~ 현재</em></td>
   </tr>
   <tr>
     <td><strong>💻 Software Engineering</strong></td>
-    <td>Chungbuk National University</td>
+    <td>OO University</td>
     <td><em>2023 ~ 현재</em></td>
   </tr>
   <tr>
