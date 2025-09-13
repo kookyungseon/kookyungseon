@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/DAsP-Data%20Architecture%20Semi--Professional-blue?style=for-the-badge&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/ADsP-Applied%20Data%20Science%20Professional-green?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Big%20Data%20Analyst-빅데이터%20분석기사-red?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-SQL%20Developer-yellow?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br>
