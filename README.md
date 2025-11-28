@@ -83,8 +83,8 @@
 
 ## 💼 Work Experience
 
-### 🏢 (주)픽셀아이 - 인턴십
-**기간**: 2024.07 ~ 2024.08
+<details>
+<summary><b>🏢 (주)픽셀아이 - 인턴십</b> <em>2024.07 ~ 2024.08</em> - 클릭하여 자세히 보기</summary>
 
 **역할**: 유학 플랫폼 웹사이트 고도화 - 다국어 자동 번역 시스템 구축 및 성능 최적화
 
@@ -97,8 +97,10 @@
 
 **기술 스택**: PHP, GnuBoard, Translation API, FTP, MySQL, JavaScript, Papago API, Google Translate API, Caching
 
-### ☁️ 멀티캠퍼스 - 융복합 프로젝트형 클라우드 서비스(MSA) 개발 과정
-**기간**: 2022.08.22 ~ 2023.02.16 (944시간 이상)
+</details>
+
+<details>
+<summary><b>☁️ 멀티캠퍼스 - 융복합 프로젝트형 클라우드 서비스(MSA) 개발 과정</b> <em>2022.08.22 ~ 2023.02.16 (944시간 이상, 🏆 최우수상)</em> - 클릭하여 자세히 보기</summary>
 
 **역할**: 클라우드 기반 애플리케이션 개발 및 AI 기반 차량 예약 확인 시스템 '타요타요' 개발
 
@@ -113,8 +115,10 @@
 
 **기술 스택**: AWS, MSA, Docker, Kubernetes, DevOps, Python, Java, Route 53, RDS, Lambda, AI/ML
 
-### 🛡️ 고용노동부 미래내일 일경험 지원사업 - 청년주도형 프로젝트
-**기간**: 2025.05.05 ~ 2025.06.27
+</details>
+
+<details>
+<summary><b>🛡️ 고용노동부 미래내일 일경험 지원사업 - 청년주도형 프로젝트</b> <em>2025.05.05 ~ 2025.06.27 (🏆 수상)</em> - 클릭하여 자세히 보기</summary>
 
 **역할**: Flutter 프론트엔드 개발 & 팀 운영
 
@@ -129,6 +133,8 @@
 - **고용노동부 장관상 수상 (2025.11.24)**
 
 **기술 스택**: Flutter, Dart, Spring Boot, FastAPI, REST API, Whisper, GPT, Google Maps API, UI/UX Design, Team Management
+
+</details>
 
 <br>
 
@@ -356,13 +362,6 @@
 <br>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/github-profile-views-counter/demo/5203063/kookyungseon?color=58A6FF&style=for-the-badge&label=Profile+Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkookyungseon&count_bg=%2358A6FF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false&style=for-the-badge"/>
-</div>
-
-<br>
 
 <!-- 풋터 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ECAD6,10:748DAE,30:F5CBCB,75:FFEAEA,100:9ECAD6&height=120&section=footer&text=&fontSize=0" width="100%"/>
