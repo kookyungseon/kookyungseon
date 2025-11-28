@@ -130,24 +130,6 @@
 
 **기술 스택**: Flutter, Dart, Spring Boot, FastAPI, REST API, Whisper, GPT, Google Maps API, UI/UX Design, Team Management
 
-### 🧠 충북대학교 졸업작품
-**기간**: 2024.09.02 ~ 2025.11.13
-
-**역할**: 프로젝트 팀장
-
-**프로젝트**: 여러 LLM 모델의 답변을 비교·분석하여 최적의 응답을 생성하는 AI 챗봇 시스템
-
-**주요 성과**:
-- 프로젝트 팀장으로서 전체 설계와 백엔드 개발 담당
-- LangChain, LangGraph를 활용해 질의 흐름(워크플로우) 설계
-- PDF·이미지·영상 등 멀티모달 데이터 처리 기능 확장
-- OCR 및 CLIP 모델 연동하여 시각 정보 기반 질의응답 구현
-- 모델 호출 비용 절감을 위한 데이터 전처리 및 캐싱 로직 개선
-- 사용자 친화적 인터페이스 구축으로 실제 테스트 사용자 만족도 향상
-- 교수 평가에서 우수작 선정
-
-**기술 스택**: LangChain, LangGraph, Python, OCR, CLIP, AI/ML, Multimodal, Caching
-
 <br>
 
 ## 🚀 Featured Projects
